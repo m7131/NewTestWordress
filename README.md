@@ -1,0 +1,2 @@
+# NewTestWordress
+New static wordpress
